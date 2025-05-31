@@ -14,6 +14,9 @@ npm install
 npm run dev
 ```
 
+## Project Scope & Google Document
+[Google Docs](https://docs.google.com/document/d/1Gw8n6seCFe3vWQk9iShwyRD_7ShJcKR0nKDFUWrWgpk/edit?usp=sharing)
+
 ## Licensing
 
 [MIT License](https://www.tldrlegal.com/license/mit-license)
