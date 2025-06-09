@@ -1,7 +1,7 @@
 
 _ _ 
 
-name: Bug report;
+name: Bug report;  
 about: create a bug report to help us resolve the stated bug;
 title: [🐞LMS BUG REPORT];
 labels: 'Bug';
