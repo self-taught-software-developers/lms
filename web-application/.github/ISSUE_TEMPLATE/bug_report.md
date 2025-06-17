@@ -1,11 +1,11 @@
+---
+name: Bug report
+about: Create a bug report to help us resolve the bugs
+title: '🐛[BUG]'
+labels: 'bug'
+assignees: 'logan,jay'
 
-_ _ 
-
-name: Bug report;  
-about: create a bug report to help us resolve the stated bug;
-title: [🐞LMS BUG REPORT];
-labels: 'Bug';
-assignee: '';
+---
 
 **Describe the bug**
 A clear and concise description of what the bug is.
